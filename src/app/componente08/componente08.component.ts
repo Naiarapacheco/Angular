@@ -9,8 +9,10 @@ import { Component } from '@angular/core';
 })
 export class Componente08Component {
 
-  // Váriavel de média
-
   media:number = 2;
+
+  nomes:string[] = ['Maria', 'Jean', 'Matheus', 'Jenifer'];
+
+  linguagem:string = 'CSS';
 
 }
