@@ -10,6 +10,8 @@ import { FormsModule } from '@angular/forms';
 })
 export class Componente09Component {
 
-  name:string = '';
+  nome:string = '';
+
+  cidade:string = '';
 
 }
